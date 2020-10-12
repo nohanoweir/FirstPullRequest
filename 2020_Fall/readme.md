@@ -83,7 +83,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mullin, Terence
 
-- [X] Noweir, Noha (@nohanoweir) 🐳☔
+- [ ] Noweir, Noha
 
 - [ ] Ochoteco, Sebastian
 
